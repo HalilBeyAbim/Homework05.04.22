@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\bin\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.exe
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\bin\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.deps.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\bin\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.runtimeconfig.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\bin\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\bin\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.dll
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\bin\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.pdb
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\obj\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\obj\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\obj\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\obj\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.AssemblyInfo.cs
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\obj\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\obj\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.dll
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\obj\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.pdb
+C:\Users\ACER\Desktop\EvTapsiriqlari\HomeWork05.04.22.Task1\HomeWork05.04.22.Task1\obj\Debug\netcoreapp3.1\HomeWork05.04.22.Task1.genruntimeconfig.cache
